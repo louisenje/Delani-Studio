@@ -47,7 +47,11 @@ h2{
 }
 .de{
     text-align: center;
-}.what{
+}
+.what{
     padding-top: 5%;
     padding-bottom:3%;
+}
+.p{
+   padding-top: 8%;
 }
