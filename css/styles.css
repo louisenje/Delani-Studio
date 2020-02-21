@@ -1,0 +1,16 @@
+#head{
+    background-image: url('../images/backgrounds/h_img.jpg');
+    background-size: cover;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+p{
+    color: white;
+    text-align: center; 
+}
+.logo{
+     padding-top: 15%;
+    
+}
