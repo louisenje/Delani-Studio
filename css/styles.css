@@ -88,9 +88,11 @@ h2{
 }
 #em{
     padding-right: 10%;
+    color: white;
 }
 #tn{
     padding-right: 38%;
+    color: white;
 }
 .btn{
     padding-bottom: 10%;
@@ -103,4 +105,29 @@ h2{
 .form-cont textarea {
     
     background: transparent;
+}
+::placeholder,
+.con {
+    color: #fff;
+}
+::placeholder{
+    font-size: 20px;
+}
+card {
+    margin: 10px 0;
+    position: relative;
+    overflow: hidden;
+}
+.card:hover img {
+    transform: scale(1.2);
+    transition: all 0.3s ease;
+}
+.card-1 {
+    position: absolute;
+    width: 100%;
+    min-height: 100%;
+    background: rgba(0, 0, 0, 0.582);
+    cursor: pointer;
+    display: none;
+    transition: all 0.5s ease;
 }
