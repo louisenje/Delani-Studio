@@ -53,7 +53,7 @@ h2{
     padding-bottom:3%;
 }
 .p{
-   padding-top: 8%;
+   padding-top: 0%;
 }
 .card{
     margin: 10px 0;
@@ -113,7 +113,7 @@ h2{
 ::placeholder{
     font-size: 20px;
 }
-card {
+.card {
     margin: 10px 0;
     position: relative;
     overflow: hidden;
