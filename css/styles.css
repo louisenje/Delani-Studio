@@ -75,7 +75,7 @@ h2{
     max-width: 100%;
     margin-top: 10%;
 }
-.formcont {
+.form-cont {
     text-align: center;
     position: relative;
     width: 700px;
@@ -84,8 +84,7 @@ h2{
     transform: translate(-50%);
 }
 #nm{
-    padding-right: 10%;
-    
+    padding-right: 10%;    
 }
 #em{
     padding-right: 10%;
@@ -96,4 +95,12 @@ h2{
 .btn{
     padding-bottom: 10%;
     color: white;
+}
+.form-cont input {
+    
+    background: transparent;
+}
+.form-cont textarea {
+    
+    background: transparent;
 }
