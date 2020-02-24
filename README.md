@@ -3,6 +3,7 @@ This project assist us  to practice and understand better the concepts that we c
 
 #### By 
 Louise Manyara
+
 ## Description
 a fictional studio known as delani studio.The project includes a landing page, an about us, services offered,what we do,portfolio and a contact us page.
 
@@ -18,11 +19,13 @@ CSS
 Bootsrap
 JQuery
 Javascript
+
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+If you run into any issues or have questions, ideas or concerns. 
+contact me at louisenje@gmail.com
 
 ### MIT License
-Copyright (c) [2020] [GHANIAN NAME GENERATOR ]
+Copyright (c) [2020] [DELANI STUDIO ]
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
