@@ -5,7 +5,7 @@
     omonge.preventDefault();
     });
 //    what we do toggle
-    $('.main').click(function(){
+    $('.main').hover(function(){
     $(this).children('.hide').slideToggle(1200);
     $(this).children('.show').toggle(1500);
     });
@@ -16,6 +16,7 @@
     this.reset();
     });
     });
+ // hover portfolio   
     $(".card").hover(function () {
     $(this).children(".card-1").fadeToggle("fast", "linear");
     });
